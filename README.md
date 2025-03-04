@@ -1,4 +1,4 @@
-
+<img src="moh.jpg" alt="GitHub Banner" width="100%" />
 <h2 align="left">Hi 👋! My name is Mohab Ahmad and I'm a Web Developer, from Syria</h2>
 
 ###
