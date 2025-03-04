@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<img src="Mohabahmad/Mohabahmad/moh.jpg" alt="GitHub Banner" width="100%"/>
-=======
+
 <img src="moh.jpg" alt="GitHub Banner" width="100%" />
->>>>>>> 717fafc7b6a8897b43f62eff3548d1536975ec42
 <h2 align="left">Hi 👋! My name is Mohab Ahmad and I'm a Web Developer, from Syria</h2>
 
 ###
